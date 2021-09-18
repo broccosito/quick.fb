@@ -1,0 +1,15 @@
+{
+  "name": "quick.fb",
+  "version": "1.0.0",
+  "description": "An NPM Package to use Firebase easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^9.11.1"
+  }
+}
