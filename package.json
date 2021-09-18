@@ -1,5 +1,5 @@
 {
-  "name": "quick.fb",
+  "name": "quick-firebase",
   "version": "1.0.0",
   "description": "An NPM Package to use Firebase easily.",
   "main": "index.js",

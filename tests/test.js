@@ -1,6 +1,6 @@
 const credential = require("./credential.json");
 
-// quick.fb
+// quick-firebase
 const Database = require("../index");
 const db = new Database("", credential);
 

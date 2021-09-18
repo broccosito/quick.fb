@@ -1,13 +1,13 @@
-# quick.fb
+# quick-firebase
 
-quick.fb is a simple [NPM](https://www.npmjs.com/) Module to interact with Firebase easily.
+quick-firebase is a simple [NPM](https://www.npmjs.com/) Module to interact with Firebase easily.
 
 ## Installation
 
 Using [NPM](https://www.npmjs.com/):
 
 ```bash
-  npm install quick.fb@latest
+  npm install quick-firebase@latest
 ```
 
 ## Documentation
