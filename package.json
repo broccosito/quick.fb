@@ -1,14 +1,18 @@
 {
   "name": "quick-firebase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An NPM Package to use Firebase easily.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./tests/test.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enjoyablee/quick.fb.git"
+  },
+  "keywords": ["firebase", "database", "quick", "easy"],
+  "author": "enjoyablee",
+  "license": "MIT",
   "dependencies": {
     "firebase-admin": "^9.11.1"
   }
